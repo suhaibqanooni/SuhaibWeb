@@ -55,5 +55,18 @@
     "@types/react-router-hash-link": "^2.4.4",
     "@types/styled-components": "^5.1.18",
     "@types/validator": "^13.7.1"
-  }
+  },
+  "description": "Suhaib's React JS Portfolio",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhaibqanooni/SuhaibWeb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suhaibqanooni/SuhaibWeb/issues"
+  },
+  "homepage": "https://github.com/suhaibqanooni/SuhaibWeb#readme"
 }
